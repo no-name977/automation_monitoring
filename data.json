@@ -1,0 +1,23 @@
+[
+    {
+        "id": "3ae9ba85-6c85-4cad-b759-53310140451c",
+        "ip_addresses": [
+            "10.11.126.3"
+        ],
+        "name": "Basecamp"
+    },
+    {
+        "id": "ef27ab12-80ea-4bcd-be1b-3a0de369c9d8",
+        "ip_addresses": [
+            "10.10.241.134"
+        ],
+        "name": "kevin"
+    },
+    {
+        "id": "196198eb-6cfa-4048-a606-e5e696248a0e",
+        "ip_addresses": [
+            "10.10.10.1"
+        ],
+        "name": "Debian-Router"
+    }
+]
